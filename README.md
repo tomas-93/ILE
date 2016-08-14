@@ -1,2 +1,2 @@
 # ILE
-Internacionalización con spring
+Internacionalización con spring y validaciones
